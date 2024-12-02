@@ -17,9 +17,8 @@
    https://www.thingiverse.com/thing:6779515<br/>
    +<br/>
    N20hole<br/>
-   https://www.thingiverse.com/thing:4003467
-
-   
+   https://www.thingiverse.com/thing:4003467<br/>
+   <br/>
 6. 사용한 부품<br/>
    i2r-03보드 (esp32)<br/>
    https://smartstore.naver.com/i2r/products/8285011211
