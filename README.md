@@ -1,7 +1,6 @@
 # IoT
 1. IoT Appinventor파일<br/>
-   1-1 디자인<br/><img src="![desgin](https://github.com/user-attachments/assets/893b3a26-b173-4fc8-9ece-32534697ce13)
-.png" width="400" height="400"/>
+   1-1 디자인<br/><img src="![desgin](https://github.com/user-attachments/assets/893b3a26-b173-4fc8-9ece-32534697ce13).png" width="800" height="800"/>
 
    
    1-2 블록코드
