@@ -13,11 +13,11 @@
    N20 Tire<br/>
    https://www.thingiverse.com/thing:5272637
 
-  curtain gear<br/>
-  https://www.thingiverse.com/thing:6779515<br/>
-  +
-  N20hole<br/>
-  https://www.thingiverse.com/thing:4003467
+   curtain gear<br/>
+   https://www.thingiverse.com/thing:6779515<br/>
+   +<br/>
+   N20hole<br/>
+   https://www.thingiverse.com/thing:4003467
    
 6. 사용한 부품<br/>
    i2r-03보드 (esp32)<br/>
