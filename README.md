@@ -3,7 +3,13 @@
    1-1 디자인<br/>![desgin](https://github.com/user-attachments/assets/b884f909-b21b-43f6-b2ec-2f3f2286fbf8)
 
    
-   1-2 블록코드
+   1-2 블록코드<br/>
+   ![1](https://github.com/user-attachments/assets/424fb102-8248-4458-834e-0f3edb25036f)<br/>
+   ![2](https://github.com/user-attachments/assets/759c899e-af6f-4dba-b051-ac1f0f969aa2)<br/>
+   ![3](https://github.com/user-attachments/assets/2cb0de7c-ec1d-4fde-adbe-f63b04b1d9a7)<br/>
+
+
+
 
 2. Arduino IDE 파일<br/>
    2-1 릴레이 입출력 포트
