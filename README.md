@@ -18,6 +18,7 @@
    +<br/>
    N20hole<br/>
    https://www.thingiverse.com/thing:4003467
+
    
 6. 사용한 부품<br/>
    i2r-03보드 (esp32)<br/>
