@@ -9,7 +9,7 @@
    ![3](https://github.com/user-attachments/assets/2cb0de7c-ec1d-4fde-adbe-f63b04b1d9a7)<br/>
 
 
-2. Arduino IDE 파일<br/>
+2. 회로연결<br/>
    2-1 보드 입출력 포트<br/>
    ESP32 -------------------------릴레이 1-------------------------릴레이 2-----------------------외부 전원----------모터<br/>
    SO_1 (GPIO 26) --------------> IN1<br/>
