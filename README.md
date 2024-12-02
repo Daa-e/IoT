@@ -8,11 +8,18 @@
    2-1 릴레이 입출력 포트
    
 4. 3D print stl 파일<br/>
-   3-1 Thinkercad
+   Thingivers에서 부품 가져와서 Tinkercad로 편집했습니다.
    
-   3-2 Thingiverse
+   N20 Tire<br/>
+   https://www.thingiverse.com/thing:5272637
 
-5. 사용한 부품<br/>
+  curtain gear<br/>
+  https://www.thingiverse.com/thing:6779515<br/>
+  +
+  N20hole<br/>
+  https://www.thingiverse.com/thing:4003467
+   
+6. 사용한 부품<br/>
    i2r-03보드 (esp32)<br/>
    https://smartstore.naver.com/i2r/products/8285011211
 
@@ -20,5 +27,5 @@
 
    N20 DC 모터 (아두이노 감속기어 모터)
 
-6. YouTube<br/>
+7. YouTube<br/>
    
