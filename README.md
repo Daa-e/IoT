@@ -1,6 +1,7 @@
 # IoT
 1. IoT Appinventor파일<br/>
-   1-1 디자인
+   1-1 디자인<br/>![KakaoTalk_20241202_114412941](https://github.com/user-attachments/assets/5f5d7d05-168f-449f-8510-550777dabf70)
+
    
    1-2 블록코드
 
