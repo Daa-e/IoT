@@ -9,8 +9,6 @@
    ![3](https://github.com/user-attachments/assets/2cb0de7c-ec1d-4fde-adbe-f63b04b1d9a7)<br/>
 
 
-
-
 2. Arduino IDE 파일<br/>
    2-1 릴레이 입출력 포트
    
