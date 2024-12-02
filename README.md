@@ -13,12 +13,12 @@
    3-2 Thingiverse
 
 5. 사용한 부품<br/>
-   i2r-03보드 (esp32)
+   i2r-03보드 (esp32)<br/>
    https://smartstore.naver.com/i2r/products/8285011211
 
    아두이노 배터리 홀더 AA 4구 6V E10
 
    N20 DC 모터 (아두이노 감속기어 모터)
 
-6. YouTube
+6. YouTube<br/>
    
