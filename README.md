@@ -48,5 +48,6 @@
 
    아두이노 배터리 홀더 AA 4구 6V E10
 
-   N20 DC 모터 (아두이노 감속기어 모터)
+   25GA370 6V 170RPM 모터<br/>
+   https://www.coupang.com/vp/products/5607278751?vendorItemId=76337060566&sourceType=MyCoupang_my_orders_list_product_title&isAddedCart=
    
